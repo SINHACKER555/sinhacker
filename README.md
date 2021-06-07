@@ -1,2 +1,0 @@
-# sinhacker
-sinhacker.py
